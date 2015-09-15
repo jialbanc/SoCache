@@ -25,6 +25,10 @@ Permite administrar el uso de las memorias, ya sean estas secundarias o terciari
 - java
 - jdk
 
+#Podria considerar un makefile
+	all:
+		jar cvf ProyectoSOII.jar ProyectoSOII.class
+		javac ProyectoSOII.java
 
 
  
